@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c33038a-5bee-4cb7-9a60-e13a8faff664" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChalangeBuilderDesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MealBuilderInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/item.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c33038a-5bee-4cb7-9a60-e13a8faff664" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,11 +64,23 @@
       <option name="presentableId" value="Default" />
       <updated>1673192495167</updated>
       <workItem from="1673192496443" duration="1313000" />
-      <workItem from="1673258183145" duration="2120000" />
+      <workItem from="1673258183145" duration="3041000" />
     </task>
+    <task id="LOCAL-00001" summary="I have simulted an restaurant where I want to have 2 classess of burgers (non veg and Veg) and Also in our restaurat we would want to have drinks (cold drinks) for this, I have created an Item interface which contains price and name and I have implemented it in BurgersVeg and BurgersNonVeg, As wel I have created an abstract class implementing Item interface for using Packing class. I have created 2 classes extending ColdDrink">
+      <created>1673261296114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673261296114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I have simulted an restaurant where I want to have 2 classess of burgers (non veg and Veg) and Also in our restaurat we would want to have drinks (cold drinks) for this, I have created an Item interface which contains price and name and I have implemented it in BurgersVeg and BurgersNonVeg, As wel I have created an abstract class implementing Item interface for using Packing class. I have created 2 classes extending ColdDrink" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have simulted an restaurant where I want to have 2 classess of burgers (non veg and Veg) and Also in our restaurat we would want to have drinks (cold drinks) for this, I have created an Item interface which contains price and name and I have implemented it in BurgersVeg and BurgersNonVeg, As wel I have created an abstract class implementing Item interface for using Packing class. I have created 2 classes extending ColdDrink" />
   </component>
 </project>
